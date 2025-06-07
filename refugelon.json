@@ -3,9 +3,9 @@
   "symbol": "REFUGELON",
   "description": "Elon’s been deported. Like many African men these days, he now seeks refugee status in Europe.",
   "seller_fee_basis_points": 0,
-  "image": "https://github.com/jonnwicc/token-assets/blob/main/TRALBEACH.png?raw=true",
+  "image": "https://github.com/jonnwicc/token-assets/blob/main/REFUGELON_IMG.png?raw=true",
   "properties": {
-    "files": [{ "uri": "https://github.com/jonnwicc/token-assets/blob/main/TRALBEACH.png?raw=true", "type": "image/png" }],
+    "files": [{ "uri": "https://github.com/jonnwicc/token-assets/blob/main/REFUGELON_IMG.png?raw=true", "type": "image/png" }],
     "category": "image"
   }
 }
